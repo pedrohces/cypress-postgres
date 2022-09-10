@@ -1,4 +1,4 @@
-# Cypress POSTGRES
+# Cypress 10+ POSTGRES
 
 Test sql query to your postgres database in cypress tests
 
